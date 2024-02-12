@@ -13,27 +13,3 @@ main{
 }
 
 
-
-header{
-    background-color: black;
-    height: 200px;
-
-}
-
-.titulo_principal{
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-
-.titulo_principal{
-    color: white;
-}
-
-.foooter{
-    background-color: black;
-    color: white;
-    height: 200px;    
-}
