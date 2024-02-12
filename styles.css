@@ -26,3 +26,15 @@ header{
     align-items: center;
     justify-content: center;
 }
+
+
+.titulo_principal{
+    color: white;
+}
+
+.foooter{
+    background-color: black;
+    color: white;
+    height: 200px;
+    
+
